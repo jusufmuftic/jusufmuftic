@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jusuf</h1>
 <h3 align="center">A passionate software developer from Bosnia</h3>
 
-<img src="https://github.com/jusufmuftic/jusufmuftic/assets/148939814/0b456841-bf7c-484d-a731-806cddeb933c" width="500" height="400" align="right" alt="Coding"/>
+<img src="https://github.com/jusufmuftic/jusufmuftic/assets/148939814/0b456841-bf7c-484d-a731-806cddeb933c" width="400" height="300" align="right" alt="Coding"/>
 
 
 - 🌱 I’m currently learning **Node.js**
