@@ -1,4 +1,4 @@
-![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/jusufmuftic/jusufmuftic/assets/148939814/3df492f0-232a-46c1-9b0c-2a82214e8c0c)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jusufmuftic&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <h1 align="center">Hi 👋, I'm Jusuf</h1>
 <h3 align="center">A passionate software developer from Bosnia</h3>
