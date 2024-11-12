@@ -2,7 +2,7 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jusufmuftic&theme=dark&hide_border=true"/></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Jusuf</h1>
+<h1 align="center">Hi , I'm Jusuf</h1>
 <h3 align="center">A passionate software developer from Bosnia</h3>
 
 <img src="https://github.com/jusufmuftic/jusufmuftic/assets/148939814/0b456841-bf7c-484d-a731-806cddeb933c" width="400" height="300" align="right" alt="Coding"/>
